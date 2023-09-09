@@ -1,0 +1,44 @@
+body {
+    background-image: url(fondoanimado.gif);
+    
+    background-position-x: center;
+  }
+
+
+.p1 {
+    background-color: rgb(44, 12, 12);
+    text-align: center;
+    font-style: italic;
+    color: rgb(19, 92, 86);
+    border-style:double;
+    width: 80%;
+    height: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tema {
+
+text-align: center;
+font-style: oblique;
+
+}
+
+.cuestiones{
+
+  text-align: right;
+  width: 50%;
+}
+
+
+.proposicion{
+
+  text-align: center;
+  width: 50%;
+}
+
+.p2 p {
+
+  display: inline-block;
+  text-align: center;
+}
